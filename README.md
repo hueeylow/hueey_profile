@@ -1,10 +1,11 @@
-### Hueey Low
-##### Dashboard Visualization Content Creator
-##### Skills: TABLEAU / POWER-BI / SQL / HTML
 ![Dashboard Visualization Creator](https://github.com/hueeylow/hueey_profile/blob/main/sg_landscape.jpg)
 
-I'm Hueey from Singapore. I enjoy maneuvering around datasets to create insightful data story-telling dashboard visualisations using Tableau / Power BI. 
+## Hi there, I'm Hueey Low 🌞
+I'm from Singapore. I enjoy maneuvering with datasets to create insightful data story-telling Dashboard Visualisations using Tableau / Power BI. 
 
-Examples of past viz projects: 
-- Market Share Performance Metrics
+### Skills and Experiences
+💻 🛠 : TABLEAU / POWER-BI / SQL / HTML
+
+Examples of viz projects I have done: 
+- Market Share Trading Performance Metrics
 - Retail Sales (Check out my demo)
