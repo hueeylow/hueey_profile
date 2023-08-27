@@ -1,7 +1,7 @@
 ![Dashboard Visualization Creator](https://github.com/hueeylow/hueey_profile/blob/main/sg_landscape.jpg)
 
-# Jia Hui🌞
-I'm from Singapore. I enjoy maneuvering with datasets to create insightful data story-telling Dashboard Visualisations using Tableau / Power BI. 
+# Jia Hui 🌞
+I'm from Singapore. I enjoy playing with datasets to create insightful data story-telling dashboard visualisations using Tableau / Power BI. 
 
 ## Skills and Experiences
 💻 🛠 : TABLEAU / POWER-BI / SQL / HTML
