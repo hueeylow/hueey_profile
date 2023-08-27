@@ -1,13 +1,13 @@
 ### Hueey Low
 ##### Dashboard Visualization Content Creator
+##### Skills: TABLEAU / POWER-BI / SQL / HTML
 ![Dashboard Visualization Creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Hueey from Singapore. I enjoy maneuvering around datasets to create insightful data story-telling dashboard visualisations using Tableau / Power BI. 
 
 Examples of past viz projects: 
 - Market Share Performance Metrics
-- Retail Sales (check out my demo)
+- Retail Sales (Check out my demo)
 
-Skills: TABLEAU / POWER-BI / SQL / HTML
+<div class='tableauPlaceholder' id='viz1693119533555' style='position: relative'><noscript><a href='#'><img alt='Retail Sales KPI Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetailDashboard_16928752762920&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RetailDashboard_16928752762920&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetailDashboard_16928752762920&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hueeylow)](https://github.com/anuraghazra/github-readme-stats)
