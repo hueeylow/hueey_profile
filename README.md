@@ -4,7 +4,9 @@
 
 I'm Hueey from Singapore. I enjoy maneuvering around datasets to create insightful data story-telling dashboard visualisations using Tableau / Power BI. 
 
-Examples of past viz projects: Market Share Performance Metrics, Retail Sales (check out my demo)
+Examples of past viz projects: 
+- Market Share Performance Metrics
+- Retail Sales (check out my demo)
 
 Skills: TABLEAU / POWER-BI / SQL / HTML
 
