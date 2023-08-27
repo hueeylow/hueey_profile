@@ -2,9 +2,9 @@
 ##### Dashboard Visualization Content Creator
 ![Dashboard Visualization Creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Hueey from Singapore and I do enjoy maneuvering around datasets to create insightful Dashboards Visualizations story-telling using Tableau and Power BI. 
+I'm Hueey from Singapore. I enjoy maneuvering around datasets to create insightful data story-telling dashboard visualisations using Tableau / Power BI. 
 
-I do have relative experiences in curating Performance Metrics Dashboards for organization. 
+Examples of past viz projects: Market Share Performance Metrics, Retail Sales (check out my demo)
 
 Skills: TABLEAU / POWER-BI / SQL / HTML
 
