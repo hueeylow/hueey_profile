@@ -1,5 +1,4 @@
-### Hueey Low
-#### Dashboard Visualization Content Creator
+### Hueey Low | Dashboard Visualization Content Creator
 ![Dashboard Visualization Creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Hueey from Singapore and I do enjoy maneuvering around datasets to create insightful Dashboards Visualizations story-telling using Tableau and Power BI. 
