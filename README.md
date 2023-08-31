@@ -21,4 +21,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 
 
 #### Other Past Viz Project from Work
-Market Share Trading Performance Dashboard (Power BI)
+- Market Share Trading Performance Dashboard (Power BI)
+
+<br>
+(Stay tuned for more projects demo)
