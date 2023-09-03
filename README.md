@@ -23,7 +23,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 
  <table width="500">
   <tr>
-     <td><b>Building SQL Database - Housing BTO Database</b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
+     <td><b>Building SQL Database - Housing Built-To-Order Database</b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
      <br> 
      <br>
    Click on the right icon to access the demo page >>
