@@ -7,7 +7,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 💻 🛠 : SQL / TABLEAU / POWER-BI / HTML
 
 
-#### Project Showcase
+#### Projects Showcase
  <table width="500">
   <tr>
      <td><b>Data Visualisation using Tableau - Retail Sales Dashboard </b><br><br>The illustrated demo was built upon using customer shopping dataset. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies.
