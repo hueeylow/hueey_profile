@@ -25,5 +25,3 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 
 <br>
 (Stay tuned for more projects demo)
-
-<a href="https://github.com/hueeylow/SQL/blob/main/README.md"> test </a>
