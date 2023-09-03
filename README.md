@@ -35,6 +35,19 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 </table> 
 
 
+ <table width="500">
+  <tr>
+     <td><b>Python - Body Mass Index (BMI) Calculator</b><br><br> Being amateur in python programming, it got me fun in exploring what do Python brings its usefulness in our daily lives. Hence, I created a Body Mass Index calculator for fun.
+     <br> 
+     <br>
+   Click on the right icon to access the demo page >>
+    </td>
+  <td>
+<a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280"/> </a></td>
+   
+  </tr>
+</table> 
+
 
 #### Other Past Viz Project from Work
 - Market Share Trading Performance Dashboard (Power BI)
