@@ -24,7 +24,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
  <table width="500">
   <tr>
         <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Demo.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_gif.gif" height="120" width="280"/> </a></td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Demo.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" width="280"/> </a></td>
     <td> The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
      <br> 
      <br>
