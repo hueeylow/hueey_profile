@@ -37,7 +37,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 
  <table width="500">
   <tr>
-     <td><b>Python - Body Mass Index (BMI) Calculator</b><br><br> Being amateur in python programming, it got me fun in exploring what do Python brings its usefulness in our daily lives. Hence, I created a Body Mass Index calculator for fun.
+     <td><b>Python - Body Mass Index (BMI) Indicator</b><br><br> Being amateur in Python Programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I created a BMI tool to gauge one's health status.
      <br> 
      <br>
    Click on the right icon to access the demo page >>
