@@ -21,7 +21,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
   </tr>
 
    <tr>
-     <td><b>Case Study on London Bus KPI Data Story </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to draw key insights from the operational performance data and identify causing issues to work for solutions. <br> 
+     <td><b>Case Study on London Bus KPI Data Story </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to draw key insights from the operational performance data and identify causing issues to work on solutions. <br> 
      <br>
    Click on the right icon to access the demo page >>
     </td>
