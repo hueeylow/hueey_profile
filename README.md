@@ -4,7 +4,7 @@
 I'm from Singapore. I enjoy playing with datasets to create insightful data story-telling **dashboard visualisations** using Tableau / Power BI. 
 
 ## Skills and Experiences
-💻 🛠 : SQL / TABLEAU / POWER-BI / HTML
+💻 🛠 : SQL / TABLEAU / POWER-BI / HTML / PYTHON
 
 
 #### Projects Showcase
@@ -65,7 +65,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 - Market Share Trading Performance Dashboard (Power BI)
 
 <br>
-(Stay tuned for more projects demo)
+Stay tuned for more projects demo (Machine Learning Model with Python in progress)
 
 ## Visitor Counter
 ![Visitor Count](https://profile-counter.glitch.me/hueeylow/count.svg)
