@@ -4,7 +4,7 @@
 I'm from Singapore. I enjoy playing with datasets to create insightful data story-telling **dashboard visualisations** using Tableau / Power BI. 
 
 ## Skills and Experiences
-💻 🛠 : SQL / TABLEAU / POWER-BI / HTML
+💻 🛠 : SQL / TABLEAU / POWER-BI / HTML / PYTHON
 
 
 #### Projects Showcase
