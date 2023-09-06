@@ -54,3 +54,6 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 
 <br>
 (Stay tuned for more projects demo)
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/hueeylow/count.svg)
