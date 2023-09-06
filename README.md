@@ -10,7 +10,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
 #### Projects Showcase
  <table width="500">
   <tr>
-     <td><b>Retail Sales Dashboard </b><br><br>The demo was built upon using customer shopping dataset. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies.
+     <td><b>Retail Sales Dashboard </b><br><br>The demo was built upon using retail shopping dataset. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies.
 <br>
       <br>
    Click on the right icon to access the demo page >>
@@ -21,7 +21,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
   </tr>
 
    <tr>
-     <td><b>Case Study on London Bus KPI Data Story </b><br><br>The demo was built on a <b>Case Study - London Bus Performance (2015 to 2018)</b>. The approach was to draw out key insights from the operational performance data and identify causing issues to work for solutions. <br> 
+     <td><b>Case Study on London Bus KPI Data Story </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to draw key insights from the operational performance data and identify causing issues to work for solutions. <br> 
      <br>
    Click on the right icon to access the demo page >>
     </td>
