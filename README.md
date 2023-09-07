@@ -43,7 +43,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
   <tr>
      <td><b><a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">Python - Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I kickstarted a BMI indicator project to gauge one's health status. </td>
   <td>
-<a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280"/> </a></td>
+<a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280" height="160"/> </a></td>
    
   </tr>
 </table> 
