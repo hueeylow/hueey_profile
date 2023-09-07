@@ -55,7 +55,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful data stor
    Click on the right icon to access the demo page >>
     </td>
   <td>
-<a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280"/> </a></td>
+<a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/BMI_icon.gif" width="280"/> </a></td>
    
   </tr>
 </table> 
