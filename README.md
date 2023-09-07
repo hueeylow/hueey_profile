@@ -60,7 +60,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
 - Market Share Trading Performance Dashboard (Power BI)
 
 <br>
-Stay tuned for more projects demo (Machine Learning Model with Python in progress)
+Stay tuned for more projects demo
 
 ## Visitor Counter
 ![Visitor Count](https://profile-counter.glitch.me/hueeylow/count.svg)
