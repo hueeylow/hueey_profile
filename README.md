@@ -1,6 +1,6 @@
 ![Dashboard Visualization Creator](https://github.com/hueeylow/hueey_profile/blob/main/sg_landscape.jpg)
 
-# Hueey🌞
+# Jia Hui 🌞
 I'm from Singapore. I enjoy playing with datasets to create insightful **Data Visualisations** using Tableau / Power BI / Python. 
 
 ## Skills and Experiences
