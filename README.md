@@ -41,22 +41,22 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
 
  <table width="500">
   <tr>
-     <td><b><a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">Python - Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I kickstarted a BMI indicator project to gauge one's health status. </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">Python - Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I kickstarted a BMI indicator project to gauge one's health status. </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280" height="160"/> </a></td>
    
   </tr>
+</table> 
+
+ <table width="500">
   <tr>
-     <td><b>Predictive Analysis on Housing Prices </b><br><br>Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices.
-     <br>
-      <br>
-    <b> Content in developing phase.. <b> 
-   
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices. </td>
   <td>
-<img src= "https://github.com/hueeylow/python/blob/main/LM_icon_1.gif" width="280" height="160"/> </td>
+<a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/LM_icon_1.gif" width="280" height="160"/> </a></td>
    
   </tr>
 </table> 
+
 
 
 #### Other Past Viz Project from Work
