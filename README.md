@@ -47,10 +47,13 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
    
   </tr>
   <tr>
-     <td><b><a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">Predictive Analysis on Housing Prices </a></b><br><br>Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices. </td>
+     <td><b>Predictive Analysis on Housing Prices </b><br><br>Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices.
+     <br>
+      <br>
+    <b> Content in developing phase.. <b> 
    
   <td>
-<a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/LM_icon_1.gif" width="280" height="160"/> </a></td>
+<img src= "https://github.com/hueeylow/python/blob/main/LM_icon_1.gif" width="280" height="160"/> </td>
    
   </tr>
 </table> 
