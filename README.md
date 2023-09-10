@@ -39,9 +39,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">Data Wrangling with SQL </a> </b><br><br>
-   We are connected with data in everywhere of our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Wrangling process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out on the Data Wrangling process demo.
-     
-     </td>
+   We are connected with data in everywhere of our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Wrangling process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out on the Data Wrangling process demo.</td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon.gif" width="280"/> </a></td>
    
