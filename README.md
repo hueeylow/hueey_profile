@@ -45,8 +45,8 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
   </tr>
 
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">SQL Query Demo </a> </b><br><br>
-SQL is a powerful script language where it allows manipulation of data; manage the relational database and is also applicable in various platforms i.e. MySQL, Oracle, PostgreSQL, and Microsoft Access. Reputable firms and small businesses leverage on SQL to extract useful information to perform data-centric analysis. Here are some of SQL query methods in retrieving data.. </td>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">SQL Query Methods </a> </b><br><br>
+SQL is a powerful script language where it allows manipulation of data; manage the relational database and is also applicable in various platforms i.e. MySQL, Oracle, PostgreSQL, and Microsoft Access. Reputable firms and small businesses leverage on SQL to extract useful information to perform data-centric analysis. Here are ways of querying a database.. </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/sql_query_icon.gif" width="280"/> </a></td>
   </tr>
