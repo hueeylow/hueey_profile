@@ -31,11 +31,23 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
 
  <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Demo.md" target="_blank">Building SQL Database - Housing Built-To-Order Database </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.</td>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">Building SQL Database - Housing Built-To-Order Database </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.</td>
   <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Demo.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" width="280"/> </a></td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" width="280"/> </a></td>
+   
+  </tr
+
+  <tr>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">Data Wrangling with SQL </a> </b><br><br>
+   We are connected with data in everywhere of our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Wrangling process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out on the Data Wrangling process demo.
+     
+     </td>
+  <td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon.gif" width="280"/> </a></td>
    
   </tr>
+
+   
 </table> 
 
 
