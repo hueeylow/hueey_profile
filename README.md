@@ -31,21 +31,28 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
 
  <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">Building SQL Database - Housing Built-To-Order Database </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.</td>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">Building SQL Database - Housing Built-To-Order Database </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
+     </td>
   <td>
-<a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" width="280"/> </a></td>
-   
-  </tr
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" width="280"/> </a></td
+  </tr>
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">Data Cleaning with SQL </a> </b><br><br>
    We are connected with data in everywhere of our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Cleaning process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out on the Data Cleaning demo using SQL.</td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" width="280"/> </a></td>
-   
   </tr>
 
-   
+  <tr>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">SQL Query Demo </a> </b><br><br>
+SQL is a powerful script language where it allows manipulation of data; manage the relational database and is also applicable in various platforms i.e. MySQL, Oracle, PostgreSQL, and Microsoft Access. Reputable firms and small businesses leverage on SQL to extract useful information to perform data-centric analysis. Here are some of SQL query methods in retrieving data.. </td>
+  <td>
+<a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/sql_query_icon.gif" width="280"/> </a></td>
+  </tr>
+  
+
+
 </table> 
 
 
