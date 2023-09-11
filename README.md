@@ -81,6 +81,7 @@ SQL is a powerful scripting language where it allows manipulation of data; manag
 
 <br>
 Stay tuned for more projects demo
+<br>
+<br>
 
-## Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/hueeylow/count.svg)
+[![Hits](https://hits.sh/github.com/hueeylow/hits.svg)](https://hits.sh/github.com/hueeylow/hits/)
