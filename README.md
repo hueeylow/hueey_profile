@@ -76,7 +76,7 @@ SQL is a powerful scripting language where it allows manipulation of data; manag
 
  <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">Predict Sales from Historical Data</a></b><br><br> Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices. </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">Sales Prediction from Historical Data</a></b><br><br> Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices. </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/py_sales_icon.gif" width="280" height="160"/> </a></td>
    
