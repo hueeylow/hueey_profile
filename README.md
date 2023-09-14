@@ -8,9 +8,35 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
 💻 🛠 : SQL / TABLEAU / POWER-BI / HTML / PYTHON
 
 #### Projects Showcase
+
  <table width="500">
   <tr>
-     <td><b><a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank">Retail Sales Dashboard</a> </b><br><br>The demo was built upon using retail shopping dataset from Kaggle. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies  </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices. </td>
+  <td>
+<a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/Miami_House.gif" width="280" height="160"/> </a></td>
+   
+  </tr>
+  <tr>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">Python: Sales Prediction from Historical Data</a></b><br><br> With the ease of python progrmaming, sales prediction can be generated based on historical data, to help business to make informed decisions on inventory management, resource allocation and revenue forecasting. Check out the approach to create sales prediction learning model based on marketing budget and actual sales historical data.</td>
+  <td>
+<a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/py_sales_icon.gif" width="280" height="160"/> </a></td>
+   
+  </tr>
+   <tr>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">Python: Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I kickstarted a BMI indicator project to gauge one's health status. </td>
+  <td>
+<a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280" height="160"/> </a></td>
+   
+  </tr>
+</table> 
+
+
+
+ 
+
+ <table width="500">
+  <tr>
+     <td><b><a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank">Tableau: Retail Sales Dashboard</a> </b><br><br>The demo was built upon using retail shopping dataset from Kaggle. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies  </td>
 
    
   <td>
@@ -19,7 +45,7 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
   </tr>
 
    <tr>
-     <td><b> <a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">Case Study on London Bus KPI Data Story</a> </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to identify key operational issues through drawing insights from  the performance data and propose recommmendations to address the underlying issues that resulted high incident rates. 
+     <td><b> <a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">Tableau: Case Study on London Bus KPI Data Story</a> </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to identify key operational issues through drawing insights from  the performance data and propose recommmendations to address the underlying issues that resulted high incident rates. 
     </td>
   <td>
 
@@ -55,33 +81,6 @@ SQL is a powerful scripting language where it allows manipulation of data; manag
 
 </table> 
 
-
- <table width="500">
-  <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">Python - Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I kickstarted a BMI indicator project to gauge one's health status. </td>
-  <td>
-<a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280" height="160"/> </a></td>
-   
-  </tr>
-</table> 
-
- <table width="500">
-  <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices. </td>
-  <td>
-<a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/Miami_House.gif" width="280" height="160"/> </a></td>
-   
-  </tr>
-</table> 
-
- <table width="500">
-  <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">Sales Prediction from Historical Data</a></b><br><br> Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices. </td>
-  <td>
-<a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/py_sales_icon.gif" width="280" height="160"/> </a></td>
-   
-  </tr>
-</table> 
 
 
 #### Other Past Viz Project from Work
