@@ -61,7 +61,7 @@ SQL is a powerful scripting language where it allows manipulation of data; manag
    
   </tr>
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(7) Python: Sales Prediction from Historical Data</a></b><br><br> Prediction of sales data is generated through python language as it analyse the patterns of the historical data. Find out how to create sales prediction model using marketing budget and actual sales historical numbers.</td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(7) Python: Sales Prediction from Historical Data</a></b><br><br> Prediction data can generated using python's predictive language to analyse historical patterns of the dataset to return results. Find out how to create sales prediction model with the use of readily marketing budget and actual sales.</td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/py_sales_icon.gif" width="280" height="160"/> </a></td>
    
