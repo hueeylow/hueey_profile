@@ -7,7 +7,7 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
 ## Skills and Experiences
 💻 🛠 : SQL / TABLEAU / POWER-BI / HTML / PYTHON
 
-#### Check out my Projects Showcase as below:
+#### Check out my Projects Showcase:
 
  <table width="500">
   <tr>
