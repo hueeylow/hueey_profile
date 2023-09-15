@@ -39,8 +39,8 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
   </tr>
 
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(4) Data Cleaning with SQL </a> </b><br><br>
-   We are connected with data in everywhere our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Cleaning process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out on the Data Cleansing Demo using SQL.</td>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(4) Data Cleansing with SQL </a> </b><br><br>
+   We are connected with data in everywhere our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Cleaning process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out the various applicable data cleansing methods using SQL.</td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" width="280"/> </a></td>
   </tr>
@@ -55,7 +55,7 @@ SQL is a powerful scripting language where it allows manipulation of data; manag
 </table> 
 <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">(6) Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis uses existing data to train datasets to generate future predictive analysis. The demo explain the approach to perform predictive analysis on future housing prices. </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">(6) Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis uses existing data to train datasets to generate future predictive analysis. The demo shows the approach to perform predictive analysis on future housing prices. </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/Miami_House.gif" width="280" height="160"/> </a></td>
    
