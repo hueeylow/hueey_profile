@@ -40,7 +40,7 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(4) Data Cleansing with SQL </a> </b><br><br>
-   We are connected with data in everywhere our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Cleaning process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out the various applicable data cleansing methods using SQL.</td>
+   We are connected with data in everywhere our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Cleaning process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out the applicable methods of data cleansing using SQL.</td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" width="280"/> </a></td>
   </tr>
