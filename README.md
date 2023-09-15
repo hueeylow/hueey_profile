@@ -11,7 +11,7 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
 
  <table width="500">
   <tr>
-     <td><b><a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank">(1) Tableau: Retail Sales Dashboard</a> </b><br><br>The demo was built upon using retail shopping dataset from Kaggle. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies  </td>
+     <td><b><a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank">(1) Tableau: Retail Sales Dashboard</a> </b><br><br>The demo was built upon using retail shopping dataset from Kaggle. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies.  </td>
 
    
   <td>
@@ -32,7 +32,7 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
 
  <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(3) Building SQL Database - Housing Built-To-Order Database </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(3) Building SQL Database: Housing Built-To-Order </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
      </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" width="280"/> </a></td
