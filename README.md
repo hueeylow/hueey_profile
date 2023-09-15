@@ -1,7 +1,7 @@
 ![Dashboard Visualization Creator](https://github.com/hueeylow/hueey_profile/blob/main/sg_landscape.jpg)
 
 # Jia Hui 🌞
-I'm from Singapore. I enjoy playing with datasets to create insightful **Data Visualisations** using Tableau / Power BI / Python. My current interest is exploring predictive analysis methods using python, to address challenges faced by industries and organisation.
+I'm from Singapore. My background is in Finance and Tech. I enjoy exploring various ways of creating insightful **Data Visualisations** using Tableau / Power BI / Python tools.
 <br>
 
 ## Skills and Experiences
@@ -40,14 +40,14 @@ I'm from Singapore. I enjoy playing with datasets to create insightful **Data Vi
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(4) Data Cleaning with SQL </a> </b><br><br>
-   We are connected with data in everywhere of our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Cleaning process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out on the Data Cleaning demo using SQL.</td>
+   We are connected with data in everywhere of our lives. The collected data are often in messy, complex and unstructured forms that would require to undergo Data Cleaning process, which is converting raw data into usable form to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Check out on the Data Cleansing Demo using SQL.</td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" width="280"/> </a></td>
   </tr>
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">(5) SQL Query Methods </a> </b><br><br>
-SQL is a powerful scripting language where it allows manipulation of data; managing relational database and is applicable in various platforms i.e. MySQL, Oracle, PostgreSQL, and Microsoft Access. Many large organisations leverage on SQL to extract useful information to perform data-centric analysis. Check out this demo to view some ways of querying a database. </td>
+SQL is a powerful scripting language where it allows manipulation of data; managing relational database and is applicable in various platforms i.e. MySQL, Oracle, PostgreSQL, and Microsoft Access. Many large organisations leverage on SQL to extract useful information to perform data-centric analysis. Check out various ways to query a database. </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/sql_query_icon.gif" width="280"/> </a></td>
   </tr>
@@ -55,19 +55,19 @@ SQL is a powerful scripting language where it allows manipulation of data; manag
 </table> 
 <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">(6) Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis had always got me interested on how they were generated based on historical data. In this demo, i have created learning model using python to train datasets in generating predictive analysis for future housing prices. </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">(6) Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis uses existing data to train datasets to generate future predictive analysis. This demo showcases the approach to perform predictive analysis on future housing prices. </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/Miami_House.gif" width="280" height="160"/> </a></td>
    
   </tr>
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(7) Python: Sales Prediction from Historical Data</a></b><br><br> With the ease of python progrmaming, sales prediction can be generated based on historical data, to help business to make informed decisions on inventory management, resource allocation and revenue forecasting. Check out the approach to create sales prediction learning model based on marketing budget and actual sales historical data.</td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(7) Python: Sales Prediction from Historical Data</a></b><br><br> Preediction of sales data is generated through python language as it analyse the patterns of the historical data. Check out my approach to create sales prediction model using marketing budget and actual sales historical numbers.</td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/py_sales_icon.gif" width="280" height="160"/> </a></td>
    
   </tr>
    <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(8) Python: Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I kickstarted a BMI indicator project to gauge one's health status. </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(8) Python: Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I wrote a BMI indicator project to gauge one's health status.  </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280" height="160"/> </a></td>
    
