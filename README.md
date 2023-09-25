@@ -13,7 +13,7 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/python/blob/main/summary_keyword.md" target="_blank">(1) Python: Keyword Match & Text Extraction </a></b><br><br> 
-     The keyword match & text extraction demo utilises the capabilities of Python in data processing and machine learning to create an algorithm to perform compatibility match on illustrated example on Job Essential Skills versus Job Candidate's Profile Summary. 
+     The keyword match & text extraction demo utilises the capabilities of Python in data processing and machine learning to create an algorithm to perform compatibility match on illustrated example between Job Essential Skills versus Job Candidate's Profile Summary. 
      </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/summary_keyword.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/python_keyword.gif" width="280" height="160"/> </a></td>
