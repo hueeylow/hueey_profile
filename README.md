@@ -4,10 +4,10 @@ Hello there! Thanks for visiting my portfolio. I’m based in Singapore. My back
 Feel free to add me on LinkedIn to stay connected and explore more of my work.
 <br>
 
-## Skilled In
+## Technical Skills Competencies
 💻 🛠 : SQL / TABLEAU / POWER-BI / HTML / PYTHON
 
-#### Check out my Projects Showcase:
+#### Check out my Projects Demo:
 
  <table width="500">
 
