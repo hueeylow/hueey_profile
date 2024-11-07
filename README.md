@@ -5,7 +5,7 @@ Feel free to add me on LinkedIn to stay connected and explore more of my work.
 <br>
 
 ## Skills and Experiences
-💻 🛠 : SQL / TABLEAU / POWER-BI / HTML / PYTHON CODING
+💻 🛠 : SQL / TABLEAU / POWER-BI / HTML / PYTHON
 
 #### Check out my Projects Showcase:
 
