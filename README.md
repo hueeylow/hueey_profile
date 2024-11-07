@@ -15,7 +15,7 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
      <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(1) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my TFIP NUS-ISS practicum assessment where the dashboard was designed and built for performance and monitoring tool purpose to serve the targeted users such as Developers, Testers and Business Analyst/Product Owner. The dataset utilises a self-populated data to mirror challenges likely encountered in product development and testing environment. </td>
 
 <td>
-<a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/DB_snapshot_interactive.gif" width="280"/> </a></td>
+<a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/AgileTesting_Main.jpg" width="280"/> </a></td>
  </tr>
 
    
