@@ -1,4 +1,4 @@
-I'm from Singapore. My background is in Tech and Finance. I enjoy creating engaging projects demo, utilising a variety of tools such as Tableau, Power BI, SQL and Python.  Whether it's building interactive visualisations, analysing complex datasets, or developing data-driven solutions, I enjoy combining these technologies to effectively showcase my concepts and ideas.
+Hello there! It's great to see you here. I’m based in Singapore. My background is in Tech and Finance. I enjoy creating engaging projects demo, utilising a variety of tools such as Tableau, Power BI, SQL and Python.  Whether it's building interactive visualisations, analysing complex datasets, or developing data-driven solutions, I enjoy combining these technologies to effectively showcase my concepts and ideas.
 <br>
 
 ## Skills and Experiences
