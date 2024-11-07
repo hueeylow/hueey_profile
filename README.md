@@ -9,10 +9,39 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
 
 #### Check out my Projects Showcase:
 
+ <table width="500">
+
+<tr>
+     <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(1) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my TFIP NUS-ISS practicum assessment where the dashboard was designed and built for performance and monitoring tool purpose to serve the targeted users such as Developers, Testers and Business Analyst/Product Owner. The dataset utilises a self-populated data to mirror challenges likely encountered in product development and testing environment. </td>
+
+<td>
+<a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/DB_snapshot_interactive.gif" width="280"/> </a></td>
+ </tr>
+
+   
+  <tr>
+     <td><b><a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank">(2) Tableau: Retail Sales Dashboard</a> </b><br><br>The demo was built upon using retail shopping dataset from Kaggle. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies.  </td>
+
+   
+  <td>
+<a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/DB_snapshot_interactive.gif" width="280"/> </a></td>
+   
+  </tr>
+
+   <tr>
+     <td><b> <a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">(3) Tableau: Case Study on London Bus KPI Data Story</a> </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to identify key operational issues through drawing insights from  the performance data and propose recommmendations to address the underlying issues that resulted high incident rates. 
+    </td>
+  <td>
+
+<a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/LondonBus_Icon.gif" width="280"/> </a></td>
+   
+  </tr>
+</table> 
+
 <table width="500">
 
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/summary_keyword.md" target="_blank">(1) Python: Keyword Match & Text Extraction </a></b><br><br> 
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/summary_keyword.md" target="_blank">(3) Python: Keyword Match & Text Extraction </a></b><br><br> 
      The keyword match & text extraction demo utilises the capabilities of Python in data processing and machine learning to create an algorithm to perform compatibility match on illustrated example between Job Essential Skills versus Job Candidate's Profile Summary. 
      </td>
   <td>
@@ -22,42 +51,22 @@ I'm from Singapore. My background is in Finance and Tech. I enjoy exploring vari
 
  
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">(2) Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis uses existing data to train datasets to generate future predictive analysis. The demo shows the approach to perform predictive analysis on future housing prices. </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">(4) Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis uses existing data to train datasets to generate future predictive analysis. The demo shows the approach to perform predictive analysis on future housing prices. </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/Miami_House.gif" width="280" height="160"/> </a></td>
    
   </tr>
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(3) Python: Sales Prediction from Historical Data</a></b><br><br> Data predicition can be generated using python's predictive language to analyse historical patterns of the dataset to return results. Find out the approach taken to create
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(5) Python: Sales Prediction from Historical Data</a></b><br><br> Data predicition can be generated using python's predictive language to analyse historical patterns of the dataset to return results. Find out the approach taken to create
       sales prediction model with the use of marketing budget and actual sales data.</td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/py_sales_icon.gif" width="280" height="160"/> </a></td>
    
   </tr>
    <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(4) Python: Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I wrote a BMI indicator project to gauge one's health status.  </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(6) Python: Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I wrote a BMI indicator project to gauge one's health status.  </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" width="280" height="160"/> </a></td>
-   
-  </tr>
-</table> 
-
- <table width="500">
-  <tr>
-     <td><b><a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank">(5) Tableau: Retail Sales Dashboard</a> </b><br><br>The demo was built upon using retail shopping dataset from Kaggle. The YoY metrics and insightful charts were built to provide quick visibility into overall sales performance that would benefit the management, sales & marketing teams in better understand each product category,  sales traction of retail malls, consumers spending as well as to leverage on these data points to make informed decisions and strategies.  </td>
-
-   
-  <td>
-<a href="https://public.tableau.com/app/profile/cupcorn8676/viz/RetailDashboard_16931087792260/Dashboard1" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/DB_snapshot_interactive.gif" width="280"/> </a></td>
-   
-  </tr>
-
-   <tr>
-     <td><b> <a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">(6) Tableau: Case Study on London Bus KPI Data Story</a> </b><br><br>The demo was built on a Case Study - London Bus Performance (2015 to 2018). The approach was to identify key operational issues through drawing insights from  the performance data and propose recommmendations to address the underlying issues that resulted high incident rates. 
-    </td>
-  <td>
-
-<a href="https://public.tableau.com/views/CaseStudy-LondonBusKPIDashboard/LondonBusPerformanceDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank"><img src= "https://github.com/hueeylow/hueey_profile/blob/main/LondonBus_Icon.gif" width="280"/> </a></td>
    
   </tr>
 </table> 
