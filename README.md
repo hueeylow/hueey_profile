@@ -41,7 +41,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 <table width="500">
 
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/summary_keyword.md" target="_blank">(3) Python: Keyword Match & Text Extraction </a></b><br><br> 
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/summary_keyword.md" target="_blank">(4) Python: Keyword Match & Text Extraction </a></b><br><br> 
      The keyword match & text extraction demo utilises the capabilities of Python in data processing and machine learning to create an algorithm to perform compatibility match on illustrated example between Job Essential Skills versus Job Candidate's Profile Summary. 
      </td>
   <td>
@@ -51,20 +51,20 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 
  
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">(4) Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis uses existing data to train datasets to generate future predictive analysis. The demo shows the approach to perform predictive analysis on future housing prices. </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank">(5) Python: Predictive Analysis on Housing Prices</a></b><br><br> Predictive analysis uses existing data to train datasets to generate future predictive analysis. The demo shows the approach to perform predictive analysis on future housing prices. </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_miami.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/Miami_House.gif" height="180" width="280" height="160"/> </a></td>
    
   </tr>
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(5) Python: Sales Prediction from Historical Data</a></b><br><br> Data predicition can be generated using python's predictive language to analyse historical patterns of the dataset to return results. Find out the approach taken to create
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(6) Python: Sales Prediction from Historical Data</a></b><br><br> Data predicition can be generated using python's predictive language to analyse historical patterns of the dataset to return results. Find out the approach taken to create
       sales prediction model with the use of marketing budget and actual sales data.</td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/py_sales_icon.gif" height="180" width="280" height="160"/> </a></td>
    
   </tr>
    <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(6) Python: Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I wrote a BMI indicator project to gauge one's health status.  </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(7) Python: Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I wrote a BMI indicator project to gauge one's health status.  </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" height="180" width="280" height="160"/> </a></td>
    
@@ -74,21 +74,21 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 
  <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(7) Building SQL Database: Housing Built-To-Order </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(8) Building SQL Database: Housing Built-To-Order </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
      </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" height="180" width="280"/> </a></td
   </tr>
 
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(8) Data Cleaning with SQL </a> </b><br><br>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(9) Data Cleaning with SQL </a> </b><br><br>
    We are connected with data in everywhere of our lives. The collected data are often in messy, complex and unstructured form that would require to undergo Data Cleaning process, which is converting raw data into usable format to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Try these applicable methods to perform data cleaning using SQL.</td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" height="180" width="280"/> </a></td>
   </tr>
 
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">(9) SQL Query Methods </a> </b><br><br>
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">(10) SQL Query Methods </a> </b><br><br>
 SQL is a powerful scripting language where it allows manipulation of data; managing relational database and is applicable in various platforms i.e. MySQL, Oracle, PostgreSQL, and Microsoft Access. Many large organisations leverage on SQL to extract useful information to perform data-centric analysis. Find out the various ways to query a database. </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/sql_query_icon.gif" height="180" width="280"/> </a></td>
