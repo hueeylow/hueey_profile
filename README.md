@@ -42,7 +42,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/python/blob/main/summary_keyword.md" target="_blank">(4) Python: Keyword Match & Text Extraction </a></b><br><br> 
-     The keyword match & text extraction demo utilises the capabilities of Python in data processing and machine learning to create an algorithm to perform compatibility match on illustrated example between Job Essential Skills versus Job Candidate's Profile Summary. 
+     The keyword match & text extraction demo utilises the capabilities of Python in data processing and machine learning to create an algorithm to perform compatibility match on illustrated example between Job Skills and Candidate's Profile Summary. 
      </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/summary_keyword.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/python_keyword.gif" height="180" width="280" height="160"/> </a></td>
@@ -64,7 +64,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
    
   </tr>
    <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(7) Python: Body Mass Index (BMI) Calculator</a></b><br><br> Being amateur in python programming, it got me fun in exploring what can it do to bring its usefulness into our daily lives. Hence, I wrote a BMI indicator project to gauge one's health status.  </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(7) Python: Body Mass Index (BMI) Calculator</a></b><br><br> In this BMI calculator interactive demo tool, user is able to input his height and weight to find out his BMI and result classification – underweight, normal weight, overweight, or obese based on standard BMI ranges. </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" height="180" width="280" height="160"/> </a></td>
    
