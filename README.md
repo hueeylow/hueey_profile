@@ -12,7 +12,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
  <table width="500">
 
 <tr>
-     <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(1) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my TFIP NUS-ISS practicum assessment where the dashboard was designed and built for performance and monitoring tool purpose to serve the targeted users such as Developers, Testers and Business Analyst/Product Owner. The dataset utilises a self-populated data to mirror challenges likely encountered in product development and testing environment. </td>
+     <td><b><a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank">(1) Tableau: Agile Testing Dashboard</a> </b><br><br> The Agile Testing Dashboard was part of my NUS-ISS practicum assessment which was designed and built to simulate a performance monitoring tool on testing activities of a digital fintech product. Some key features of the dashboard are - Test Execution Status, Performance Metrics, USP Coverage and Defect metrics. The primary users are testers, developers, product owners and business analyst whom will utilise the features of the dashboard to resolve defects and prioritise backlog tasks. The dataset utilizes self-populated data that mirror the likely challenges encounter in product development. </td>
 
 <td>
 <a href="https://public.tableau.com/app/profile/team3.tifp/viz/AgileTestingDashboard_17149161419530/AgileTest" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/Agile_Testing_Main.jpg" height="180" width="280"/> </a></td>
