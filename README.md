@@ -57,8 +57,8 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
    
   </tr>
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(6) Python: Sales Prediction from Historical Data</a></b><br><br> Data predicition can be generated using python's predictive language to analyse historical patterns of the dataset to return results. Find out the approach taken to create
-      sales prediction model with the use of marketing budget and actual sales data.</td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank">(6) Python: Sales Prediction from Historical Data</a></b><br><br> Data predicition can be generated using python's predictive language to analyse historical data patterns and return future predictions. In this demo, find out the approach taken to create sales prediction model that incorporates the use of both marketing budget and actual sales data. By analysing these two key variables, the model shall generate sales forecast of a business.
+         </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_pred_sales.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/py_sales_icon.gif" height="180" width="280" height="160"/> </a></td>
    
