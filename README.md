@@ -83,7 +83,7 @@ The custom-built SQL database demo was to emphasise the importance of creating e
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(9) Data Cleaning with SQL </a> </b><br><br>
-     We are connected with data in almost everywhere of our lives. The collected data are often in complex and unstructured form that require data cleansing steps to transform them into a usable format, ensuring accuracy and reliability for further analysis and decision-making. In this demo, I will walk through some essential steps of data cleansing using SQL to show how these processes can help prepare raw data for more effective use.
+     We are connected with data in almost everywhere of our lives. The collected data are often in complex and unstructured form that require data cleansing steps to transform them into a usable format, ensuring accuracy and reliability for further analysis and decision-making. In this demo, I will walk through some essential steps of data cleansing using SQL to process raw data for more effective use.
      </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" height="180" width="280"/> </a></td>
