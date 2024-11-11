@@ -74,7 +74,8 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 
  <table width="500">
   <tr>
-     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(8) Building SQL Database: Housing Built-To-Order </a> </b><br><br>The built-from-scratch database was inspired by Housing Built-To-Order idea as chosen demo. The illustration highlighted the importance of creating good data table structures to optimise data storage space and also for data security access reason. Having well structured dataset make it functionable for other form of use, i.e. query results from ready UI, building of dashboards.
+     <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank">(8) Building SQL Database: Housing Built-To-Order </a> </b><br><br>
+The custom-built SQL database demo was to emphasise the importance of creating efficient and well-organised data table structures. A thoughtful structured dataset not only improves performance and query response time, but also allow seamless integration with other applications, such as generating dynamic query results through user interfaces or enabling real-time data analytics.
      </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_BuildDB.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/SQL_icon.gif" height="180" width="280"/> </a></td
