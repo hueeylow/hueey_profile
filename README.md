@@ -91,7 +91,8 @@ The custom-built SQL database demo was to emphasise the importance of creating e
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank">(10) SQL Query Methods </a> </b><br><br>
-SQL is a powerful scripting language where it allows manipulation of data; managing relational database and is applicable in various platforms i.e. MySQL, Oracle, PostgreSQL, and Microsoft Access. Many large organisations leverage on SQL to extract useful information to perform data-centric analysis. Find out the various ways to query a database. </td>
+Structured Query Language (SQL) is a powerful scripting language where it helps to manipulate data in relational databases like Microsoft SQL, Oracle, mySQL, PostgreSQL, and Microsoft Access. It is essential for data management and analysis in large organisations, enabling efficient extraction of valuable insights. Find out various ways to query a database, from basic data retrieval to more advanced operations in navigating a relational dataset.
+     </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_Query.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/sql_query_icon.gif" height="180" width="280"/> </a></td>
   </tr>
