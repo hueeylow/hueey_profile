@@ -64,7 +64,7 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
    
   </tr>
    <tr>
-     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(7) Python: Body Mass Index (BMI) Calculator</a></b><br><br> In this BMI calculator interactive demo tool, user is able to input his height and weight to find out his BMI and result classification – underweight, normal weight, overweight, or obese based on standard BMI ranges. </td>
+     <td><b> <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank">(7) Python: Body Mass Index (BMI) Calculator</a></b><br><br>In this BMI calculator interactive demo tool, the user can input their height and weight to find out their BMI and result classification based on standard BMI ranges, such as underweight, normal weight, overweight, or obese. This helps the user to better understand their current health status and provides a foundation for making informed decisions about their fitness and wellness goals. </td>
   <td>
 <a href="https://github.com/hueeylow/python/blob/main/python_bmi.md" target="_blank"><img src= "https://github.com/hueeylow/python/blob/main/bmi_icon.gif" height="180" width="280" height="160"/> </a></td>
    
@@ -82,7 +82,8 @@ Feel free to add me on LinkedIn to stay connected and view more of my work.
 
   <tr>
      <td><b> <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank">(9) Data Cleaning with SQL </a> </b><br><br>
-   We are connected with data in everywhere of our lives. The collected data are often in messy, complex and unstructured form that would require to undergo Data Cleaning process, which is converting raw data into usable format to ensure is reliable and complete. The data insights draw will then be valuable and meaningful to guide business decisions. Try these applicable methods to perform data cleaning using SQL.</td>
+     We are connected with data in almost everywhere of our lives. The collected data are often in complex and unstructured form that require data cleansing steps to transform them into a usable format, ensuring accuracy and reliability for further analysis and decision-making. In this demo, I will walk through some essential steps of data cleansing using SQL to show how these processes can help prepare raw data for more effective use.
+     </td>
   <td>
 <a href="https://github.com/hueeylow/SQL/blob/main/SQL_DataScrub.md" target="_blank"><img src= "https://github.com/hueeylow/hueeylow/blob/main/dc_icon_1.gif" height="180" width="280"/> </a></td>
   </tr>
